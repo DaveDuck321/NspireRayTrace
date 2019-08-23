@@ -1,0 +1,7 @@
+*
+!*.lua
+!*.cpp
+!*.tns
+!*.md
+!*.png
+!.gitignore
