@@ -73,10 +73,6 @@ function Draw(gc)
     end
 end
 
-function Update()
-    cameraPos[1] = cameraPos[1] + 0.1
-end
-
 function on.paint(gc)
     Draw(gc)
 end
